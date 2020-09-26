@@ -12,7 +12,7 @@
 * 迪丽热巴
 * 易烊千玺
 
-来谷里之前，我自学了`HTML` `CSS` `JavaScript`的一些基础语法。这是JavaScript的写法：
+之前我自学了`HTML` `CSS` `JavaScript`的一些基础语法。这是JavaScript的写法：
 
 ```javascript
 var a=1
