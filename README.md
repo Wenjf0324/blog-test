@@ -12,9 +12,7 @@
 * 迪丽热巴
 * 易烊千玺
 
-我的网站是 [我的官网](http://baidu.com)
-
-`console.log("hello")`
+来谷里之前，我自学了`HTML` `CSS` `JavaScript`的一些基础语法。这是JavaScript的写法：
 
 ```javascript
 var a=1
